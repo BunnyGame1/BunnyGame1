@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BunnyGame1
-- 👀 I’m interested in Geometry Dash.
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on a level in GD
+Hai, I’m Bunny
+I’m interested in coding (kinda)
+I’m currently learning C++/HTML/CSS
+I’m looking to build a game or website with someone
 
 <!---
 BunnyGame1/BunnyGame1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
