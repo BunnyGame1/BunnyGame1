@@ -1,6 +1,6 @@
-Hai, I’m Bunny
-I’m interested in coding (kinda)
-I’m currently learning C++/HTML/CSS
+Hai, I’m Bunny,
+I’m interested in coding (kinda),
+I’m currently learning C++/HTML/CSS,
 I’m looking to build a game or website with someone
 
 <!---
